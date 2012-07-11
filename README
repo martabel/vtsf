@@ -1,5 +1,8 @@
 Verteiltes Tracking System zur Fahrtkostenüberwachung
 
+Ticket/Wiki System
+http://first-tale.de/vtsf_trac/
+
 GPS Tracker Applikation im Automobil
 ließt GPS und Autospezifische Daten aus z.B. Laptop der an dem Bussystem des Autos angeschlossen ist liest gps, Verbrauch, Geschwindigkeit, Drehzahl usw aus stellt die Daten über Bluetooth oder WLAN bereit
 Mobile Tracker App im Smartphone
